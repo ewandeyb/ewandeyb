@@ -1,16 +1,16 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Aaron! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software Developer** with experience in **Python, Svelte, HTML, CSS, JS, FastAPI, React & Nodejs. **. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **Django**
+- 🔭 Working on: **Database Management System**
+- 🌍 Languages: **English/Filipino, Python, C++, C. **
+- 📫 How to reach me: **aaronsiapuatco@gmail.com**
+- ⚡ Fun fact: **My last name are three chinese last names combined. 🤯🤯**
 
 ## My Skills 🧠
 
@@ -24,22 +24,16 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [CacaoTrace](project_1_link)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**[CacaoTrace]** is a **Decentralized App** built with **Motoko, HTML, CSS & JS.**. This project demonstrates my ability to **handle deployment on the blockchain**. You can check out the repository [here]([project_1_repository_link](https://github.com/KanadeTachie/CacaoTrace.git)).
 
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(www.linkedin.com/in/aarondavesiapuatco)
+
 
 
