@@ -53,6 +53,10 @@ I'm a passionate **Software Developer** with experience in **Python, Svelte, HTM
 
 **[CacaoTrace]** is a **Decentralized App** built with **Motoko, HTML, CSS & JS.**. This project demonstrates my ability to **handle deployment on the blockchain**. You can check out the repository [here]([project_1_repository_link](https://github.com/KanadeTachie/CacaoTrace.git)).
 
+![Project 2 Screenshot](project_1_screenshot_url)
+
+**[UP Madayaw]** is the official website of UP Madayaw **which has applications, dashboard management and financial services** built with **Nextjs & Supabase.**. This project demonstrates my ability on **full-stack development**. You can check out the repository [here](https://github.com/ewandeyb/up_madayaw_new).
+
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
